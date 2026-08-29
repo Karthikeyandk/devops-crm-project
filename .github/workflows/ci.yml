@@ -55,3 +55,6 @@ jobs:
         env:
           TWENTY_API_URL: ${{ steps.twenty.outputs.server-url }}
           TWENTY_API_KEY: ${{ steps.twenty.outputs.api-key }}
+
+      - name: Build application
+        run: yarn twenty dev:build

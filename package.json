@@ -26,7 +26,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "twenty-client-sdk": "2.35.1",
-    "twenty-sdk": "2.35.1",
+    "twenty-sdk": "patch:twenty-sdk@npm%3A2.35.1#~/.yarn/patches/twenty-sdk-npm-2.35.1-a94d98b5e6.patch",
     "twenty-ui": "1.0.0-alpha.1",
     "typescript": "^5.9.3",
     "vite-tsconfig-paths": "^4.2.1",

@@ -276,7 +276,7 @@ Build application
 
 ## 14. Issues Faced
 
-The repository already had a GitHub Actions CI workflow.
+The repository already contained a GitHub Actions CI workflow.
 
 However, the existing workflow did not include an application build step.
 
@@ -287,10 +287,6 @@ Therefore, using:
 ```bash
 yarn build
 ```
-
-would not be the correct application build command for this project.
-
-The existing Twenty CLI build command was used instead.
 
 ---
 

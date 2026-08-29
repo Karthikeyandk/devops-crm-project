@@ -352,7 +352,7 @@ The video will cover:
 
 Loom Video:
 
-TODO: Add CI Loom video link after the GitHub Actions workflow is verified successfully.
+https://www.loom.com/share/d51143ead8b141adbc306b74a9682513
 
 ---
 

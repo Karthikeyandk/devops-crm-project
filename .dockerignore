@@ -1,0 +1,15 @@
+node_modules
+.twenty
+.git
+.github
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+coverage
+dist
+*.log
+.env
+.env.*
+CI.md
+README.md
+SETUP.md

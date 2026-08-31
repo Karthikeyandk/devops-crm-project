@@ -216,7 +216,7 @@ The `.dockerignore` excludes unnecessary files from the Docker build context, in
 
 
 
-## 5. .dockerignore
+## 11. .dockerignore
 ```bash
 ```
 
@@ -224,3 +224,12 @@ The worker and application wait for the Twenty server to become healthy.
 
 
 Compose supports `service_healthy` dependencies so a dependent service waits for the dependency healthcheck to pass.
+
+
+## 12. Loom Demonstration
+
+A Loom video demonstrating the Docker containerization setup, application build, Docker Compose services, Twenty application sync, and verification steps is available below.
+
+**Loom Video:**
+https://www.loom.com/share/4a13b9de003245f3b6e9e858c73f4321
+
